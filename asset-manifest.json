@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactGame/static/css/main.fb15d3e7.css",
+    "main.js": "/ReactGame/static/js/main.758c5083.js",
+    "static/js/787.6a541d2d.chunk.js": "/ReactGame/static/js/787.6a541d2d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ReactGame/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/wraper.png": "/ReactGame/static/media/wraper.0fddd1fbe0a5e0a0af93.png",
+    "static/media/fa-brands-400.ttf": "/ReactGame/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/logo.png": "/ReactGame/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/ReactGame/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/ReactGame/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/ReactGame/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/istockphoto-1320799591-612x612.jpg": "/ReactGame/static/media/istockphoto-1320799591-612x612.52bf5ca3eca5d1bce38a.jpg",
+    "static/media/fa-regular-400.woff2": "/ReactGame/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ReactGame/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ReactGame/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/ReactGame/index.html",
+    "main.fb15d3e7.css.map": "/ReactGame/static/css/main.fb15d3e7.css.map",
+    "main.758c5083.js.map": "/ReactGame/static/js/main.758c5083.js.map",
+    "787.6a541d2d.chunk.js.map": "/ReactGame/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb15d3e7.css",
+    "static/js/main.758c5083.js"
+  ]
+}
